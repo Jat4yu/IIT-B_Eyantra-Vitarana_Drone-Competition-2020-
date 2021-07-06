@@ -63,5 +63,22 @@ Task 4:
    After completing all the deliveries listed in the .csv file, our eDrone must land back to the start coordinate. The landing of eDrone will indicate the end of 
    this task
    
+   Videos:
+   
+   Task 1:
+   
+   [![Task 1](https://img.youtube.com/vi/DAn9kIL0uA8/0.jpg)](https://www.youtube.com/watch?v=DAn9kIL0uA8)
+   
+   Task 2:
+   
+   [![Task 1](https://img.youtube.com/vi/hhhCoTmWtfU/0.jpg)](https://www.youtube.com/watch?v=hhhCoTmWtfU)
+   
+   
+   Task 3:  
+
+   [![Task 1](https://img.youtube.com/vi/nBAJfkexXyU/0.jpg)](https://www.youtube.com/watch?v=nBAJfkexXyU)
+
+   
+   Task4:
    [![Task_4](https://img.youtube.com/vi/nBAJfkexXyU/0.jpg)](https://www.youtube.com/watch?v=nBAJfkexXyU)
    
