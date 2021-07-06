@@ -49,8 +49,7 @@ Task 3:
 Task 4:
    The Task 4 is a cumulative task of all the previous tasks.
    The main aim of this task is to complete a set of deliveries form warehouse location to their destinations.
-   Details:
-
+       
     The eDrone spawned on the roof of a warehouse.
 
     The warehouse had a grid on which the parcel boxes are placed.
@@ -66,4 +65,4 @@ Task 4:
     After dropping a box we needed to go to the warehouse location to perform next delivery.
     After completing all the deliveries listed in the .csv file, the eDrone must land back to the start coordinate. The landing of eDrone will indicate the end of this task. 
    
-    Video Link: [![Task_1](https://img.youtube.com/vi/nBAJfkexXyU/0.jpg)](https://www.youtube.com/watch?v=nBAJfkexXyU)
+    Video Link: [![Task_4](https://img.youtube.com/vi/nBAJfkexXyU/0.jpg)](https://www.youtube.com/watch?v=nBAJfkexXyU) 
