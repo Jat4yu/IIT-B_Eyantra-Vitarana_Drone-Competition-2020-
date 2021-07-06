@@ -49,20 +49,19 @@ Task 3:
 Task 4:
    The Task 4 is a cumulative task of all the previous tasks.
    The main aim of this task is to complete a set of deliveries form warehouse location to their destinations.
-       
-    The eDrone spawned on the roof of a warehouse.
-
-    The warehouse had a grid on which the parcel boxes are placed.
-
-    The grid consists of square cells. The parcel boxes will be placed exactly at the centre of the cells.
-
-    The rows are numbers starting from top viz 1,2,3.. and columns are alphabets starting from the left viz A, B, C ....
-
-  
-    The manifest of the deliveries was provided to us in a Comma Separated Values file format (.csv) present in the scripts folder of the ROS package.
-
-    The destination coordinate given in the .csv file will pointed to the terrace or rooftop of the destination building and we had to search for a landing marker as done in previous task. 
-    After dropping a box we needed to go to the warehouse location to perform next delivery.
-    After completing all the deliveries listed in the .csv file, the eDrone must land back to the start coordinate. The landing of eDrone will indicate the end of this task. 
    
-    Video Link: [![Task_4](https://img.youtube.com/vi/nBAJfkexXyU/0.jpg)](https://www.youtube.com/watch?v=nBAJfkexXyU) 
+   The eDrone spawned on the roof of a warehouse.
+   
+   The warehouse had a grid on which the parcel boxes are placed.The grid consists of square cells.
+   
+   The grid consisted of square cells. The parcel boxes were placed exactly at the centre of the cells.
+   The manifest of the deliveries was provided to us in a Comma Separated Values file format (.csv) present in the scripts folder.
+   We needed to read the .csv file in the python program to get information about the location of cells and their destination locations.
+   The destination coordinate was given in the .csv file pointed to the terrace or rooftop of the destination building and we had to search for a landing marker
+   as done in the previous Tasks
+   After dropping a box we needed to go to the warehouse location to perform the next delivery. 
+   After completing all the deliveries listed in the .csv file, our eDrone must land back to the start coordinate. The landing of eDrone will indicate the end of 
+   this task
+   
+   [![Task_4](https://img.youtube.com/vi/nBAJfkexXyU/0.jpg)](https://www.youtube.com/watch?v=nBAJfkexXyU)
+   
